@@ -1,4 +1,4 @@
-# 🏀 Predicting College Basketball Revenue Using Team Performance
+# Predicting College Basketball Revenue Using Team Performance
 
 This project uses machine learning to predict NCAA Division I men's basketball program revenue based on season-level team performance metrics and structural characteristics.
 
